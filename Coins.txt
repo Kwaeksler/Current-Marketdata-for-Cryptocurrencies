@@ -1,0 +1,7 @@
+Enter Coins (API-ID from CoinGecko.com) - Only one value per line:
+------------------------------------------------------------------
+bitcoin
+ethereum
+tether
+binancecoin
+...
