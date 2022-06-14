@@ -1,4 +1,13 @@
 #!/usr/bin/python
+# |--------------------------------------------------------------------------------------
+# | Repository: Current-Marketdata-for-Cryptocurrencies
+# | Description: Read current cryptocurrency data from CoinGecko.com and export it to JSON
+# | Version: 1.0
+# | Author: Daniel H.
+# | Author URI: https://github.com/Kwaeksler
+# | License: GNU General Public License v3.0
+# |--------------------------------------------------------------------------------------
+
 import json
 import time
 from datetime import datetime
